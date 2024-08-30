@@ -1,0 +1,19 @@
+{
+  "name": "twoday_testavimo_uzduotis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.0"
+  },
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
